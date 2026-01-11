@@ -14,4 +14,4 @@ Fun Fact:
 - I also am an enthusiast in mathematics field
 - I will create something that takes days to automate seconds of my life
 - Matcha and coffee enthusiast
-- **hobbies**: code, read, and photography/ videography
+- **Hobbies**: code, read, and photography/ videography
