@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Ryu158/Ryu158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Reuben. A student majoring in Computer & Data Science based in Jakarta, Indonesia
 
-Here are some ideas to get you started:
+An enthusiast in AI Engineering field and financial technology field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If there is an interesting project idea or something to automate my life, I will explore the idea and actualize it.
+
+My main tech stack are python. My field of interest is deep learning, machine learning, LLM, and NLP. My favourite tool (or library) is pytorch, huggingface, and roboflow.
+
+I have numerous project, but i post my favourites one here. Amongst those favourites, my favourite project is the retinal disease classification.
+
+Fun Fact:
+- I also am an enthusiast in mathematics field
+- I will create something that takes days to automate seconds of my life
+- Matcha and coffee enthusiast
+- **hobbies**: code, read, and photography/ videography
